@@ -1,0 +1,25 @@
+{
+  "name": "employee-database",
+  "version": "1.0.0",
+  "description": "Back-end APIs for employee database",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "inquirer": "^8.2.1",
+    "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erock42/employee-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erock42/employee-database/issues"
+  },
+  "homepage": "https://github.com/Erock42/employee-database#readme"
+}
